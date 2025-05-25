@@ -1,15 +1,10 @@
-# nordea-csv-parser
+# 🎯 Motions Practice Tools
 
-To install dependencies:
+An interactive CLI tool to practice Vim motions and your own custom motions defined in `motion.json`.
+
+## Installation
 
 ```bash
 bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.1.43. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+bun link
+bun link practice-motions-cli
