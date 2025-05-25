@@ -1,0 +1,42 @@
+[
+    {
+        "motion": "jump to beginning of next word",
+        "keystroke": "w"
+    },
+    {
+        "motion": "jump to beginning of next WORD",
+        "keystroke": "W"
+    },
+    {
+        "motion": "jump to end of next word",
+        "keystroke": "e"
+    },
+    {
+        "motion": "jump to end of next WORD",
+        "keystroke": "E"
+    },
+    {
+        "motion": "jump to beginning of previous word",
+        "keystroke": "b"
+    },
+    {
+        "motion": "jump to beginning of previous WORD",
+        "keystroke": "B"
+    },
+    {
+        "motion": "jump to end of previous word",
+        "keystroke": "ge"
+    },
+    {
+        "motion": "jump to end of previous WORD",
+        "keystroke": "gE"
+    },
+    {
+        "motion": "jump 10 lines up",
+        "keystroke": "10k"
+    },
+    {
+        "motion": "jump 10 lines down",
+        "keystroke": "10j"
+    }
+]
