@@ -1,0 +1,234 @@
+[
+    {
+        "motion": "jump 2 lines up",
+        "keystroke": "2k"
+    },
+    {
+        "motion": "jump 2 lines down",
+        "keystroke": "2j"
+    },
+    {
+        "motion": "jump 3 lines up",
+        "keystroke": "3k"
+    },
+    {
+        "motion": "jump 3 lines down",
+        "keystroke": "3j"
+    },
+    {
+        "motion": "jump 4 lines up",
+        "keystroke": "4k"
+    },
+    {
+        "motion": "jump 4 lines down",
+        "keystroke": "4j"
+    },
+    {
+        "motion": "jump 5 lines up",
+        "keystroke": "5k"
+    },
+    {
+        "motion": "jump 5 lines down",
+        "keystroke": "5j"
+    },
+    {
+        "motion": "jump 6 lines up",
+        "keystroke": "6k"
+    },
+    {
+        "motion": "jump 6 lines down",
+        "keystroke": "6j"
+    },
+    {
+        "motion": "jump 7 lines up",
+        "keystroke": "7k"
+    },
+    {
+        "motion": "jump 7 lines down",
+        "keystroke": "7j"
+    },
+    {
+        "motion": "jump 8 lines up",
+        "keystroke": "8k"
+    },
+    {
+        "motion": "jump 8 lines down",
+        "keystroke": "8j"
+    },
+    {
+        "motion": "jump 9 lines up",
+        "keystroke": "9k"
+    },
+    {
+        "motion": "jump 9 lines down",
+        "keystroke": "9j"
+    },
+    {
+        "motion": "jump 10 lines up",
+        "keystroke": "10k"
+    },
+    {
+        "motion": "jump 10 lines down",
+        "keystroke": "10j"
+    },
+    {
+        "motion": "jump 11 lines up",
+        "keystroke": "11k"
+    },
+    {
+        "motion": "jump 11 lines down",
+        "keystroke": "11j"
+    },
+    {
+        "motion": "jump 12 lines up",
+        "keystroke": "12k"
+    },
+    {
+        "motion": "jump 12 lines down",
+        "keystroke": "12j"
+    },
+    {
+        "motion": "jump 13 lines up",
+        "keystroke": "13k"
+    },
+    {
+        "motion": "jump 13 lines down",
+        "keystroke": "13j"
+    },
+    {
+        "motion": "jump 14 lines up",
+        "keystroke": "14k"
+    },
+    {
+        "motion": "jump 14 lines down",
+        "keystroke": "14j"
+    },
+    {
+        "motion": "jump 15 lines up",
+        "keystroke": "15k"
+    },
+    {
+        "motion": "jump 15 lines down",
+        "keystroke": "15j"
+    },
+    {
+        "motion": "jump 16 lines up",
+        "keystroke": "16k"
+    },
+    {
+        "motion": "jump 16 lines down",
+        "keystroke": "16j"
+    },
+    {
+        "motion": "jump 17 lines up",
+        "keystroke": "17k"
+    },
+    {
+        "motion": "jump 17 lines down",
+        "keystroke": "17j"
+    },
+    {
+        "motion": "jump 18 lines up",
+        "keystroke": "18k"
+    },
+    {
+        "motion": "jump 18 lines down",
+        "keystroke": "18j"
+    },
+    {
+        "motion": "jump 19 lines up",
+        "keystroke": "19k"
+    },
+    {
+        "motion": "jump 19 lines down",
+        "keystroke": "19j"
+    },
+    {
+        "motion": "jump 20 lines up",
+        "keystroke": "20k"
+    },
+    {
+        "motion": "jump 20 lines down",
+        "keystroke": "20j"
+    },
+    {
+        "motion": "jump 21 lines up",
+        "keystroke": "21k"
+    },
+    {
+        "motion": "jump 21 lines down",
+        "keystroke": "21j"
+    },
+    {
+        "motion": "jump 22 lines up",
+        "keystroke": "22k"
+    },
+    {
+        "motion": "jump 22 lines down",
+        "keystroke": "22j"
+    },
+    {
+        "motion": "jump 23 lines up",
+        "keystroke": "23k"
+    },
+    {
+        "motion": "jump 23 lines down",
+        "keystroke": "23j"
+    },
+    {
+        "motion": "jump 24 lines up",
+        "keystroke": "24k"
+    },
+    {
+        "motion": "jump 24 lines down",
+        "keystroke": "24j"
+    },
+    {
+        "motion": "jump 25 lines up",
+        "keystroke": "25k"
+    },
+    {
+        "motion": "jump 25 lines down",
+        "keystroke": "25j"
+    },
+    {
+        "motion": "jump 26 lines up",
+        "keystroke": "26k"
+    },
+    {
+        "motion": "jump 26 lines down",
+        "keystroke": "26j"
+    },
+    {
+        "motion": "jump 27 lines up",
+        "keystroke": "27k"
+    },
+    {
+        "motion": "jump 27 lines down",
+        "keystroke": "27j"
+    },
+    {
+        "motion": "jump 28 lines up",
+        "keystroke": "28k"
+    },
+    {
+        "motion": "jump 28 lines down",
+        "keystroke": "28j"
+    },
+    {
+        "motion": "jump 29 lines up",
+        "keystroke": "29k"
+    },
+    {
+        "motion": "jump 29 lines down",
+        "keystroke": "29j"
+    },
+    {
+        "motion": "jump 30 lines up",
+        "keystroke": "30k"
+    },
+    {
+        "motion": "jump 30 lines down",
+        "keystroke": "30j"
+    }
+]

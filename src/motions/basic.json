@@ -1,0 +1,58 @@
+[
+    {
+        "motion": "jump up one character to the right",
+        "keystroke": "h"
+    },
+    {
+        "motion": "jump up one character to the left",
+        "keystroke": "l"
+    },
+    {
+        "motion": "jump up one line",
+        "keystroke": "k"
+    },
+    {
+        "motion": "jump down one line",
+        "keystroke": "j"
+    },
+    {
+        "motion": "jump to beginning of next word",
+        "keystroke": "w"
+    },
+    {
+        "motion": "jump to beginning of next WORD",
+        "keystroke": "W"
+    },
+    {
+        "motion": "jump to end of next word",
+        "keystroke": "e"
+    },
+    {
+        "motion": "jump to end of next WORD",
+        "keystroke": "E"
+    },
+    {
+        "motion": "jump to beginning of previous word",
+        "keystroke": "b"
+    },
+    {
+        "motion": "jump to beginning of previous WORD",
+        "keystroke": "B"
+    },
+    {
+        "motion": "jump to end of previous word",
+        "keystroke": "ge"
+    },
+    {
+        "motion": "jump to end of previous WORD",
+        "keystroke": "gE"
+    },
+    {
+        "motion": "jump to above line",
+        "keystroke": "k"
+    },
+    {
+        "motion": "jump to line below",
+        "keystroke": "j"
+    }
+]
