@@ -1,0 +1,234 @@
+[
+    {
+        "prompt": "jump 2 lines up",
+        "answer": "2k"
+    },
+    {
+        "prompt": "jump 2 lines down",
+        "answer": "2j"
+    },
+    {
+        "prompt": "jump 3 lines up",
+        "answer": "3k"
+    },
+    {
+        "prompt": "jump 3 lines down",
+        "answer": "3j"
+    },
+    {
+        "prompt": "jump 4 lines up",
+        "answer": "4k"
+    },
+    {
+        "prompt": "jump 4 lines down",
+        "answer": "4j"
+    },
+    {
+        "prompt": "jump 5 lines up",
+        "answer": "5k"
+    },
+    {
+        "prompt": "jump 5 lines down",
+        "answer": "5j"
+    },
+    {
+        "prompt": "jump 6 lines up",
+        "answer": "6k"
+    },
+    {
+        "prompt": "jump 6 lines down",
+        "answer": "6j"
+    },
+    {
+        "prompt": "jump 7 lines up",
+        "answer": "7k"
+    },
+    {
+        "prompt": "jump 7 lines down",
+        "answer": "7j"
+    },
+    {
+        "prompt": "jump 8 lines up",
+        "answer": "8k"
+    },
+    {
+        "prompt": "jump 8 lines down",
+        "answer": "8j"
+    },
+    {
+        "prompt": "jump 9 lines up",
+        "answer": "9k"
+    },
+    {
+        "prompt": "jump 9 lines down",
+        "answer": "9j"
+    },
+    {
+        "prompt": "jump 10 lines up",
+        "answer": "10k"
+    },
+    {
+        "prompt": "jump 10 lines down",
+        "answer": "10j"
+    },
+    {
+        "prompt": "jump 11 lines up",
+        "answer": "11k"
+    },
+    {
+        "prompt": "jump 11 lines down",
+        "answer": "11j"
+    },
+    {
+        "prompt": "jump 12 lines up",
+        "answer": "12k"
+    },
+    {
+        "prompt": "jump 12 lines down",
+        "answer": "12j"
+    },
+    {
+        "prompt": "jump 13 lines up",
+        "answer": "13k"
+    },
+    {
+        "prompt": "jump 13 lines down",
+        "answer": "13j"
+    },
+    {
+        "prompt": "jump 14 lines up",
+        "answer": "14k"
+    },
+    {
+        "prompt": "jump 14 lines down",
+        "answer": "14j"
+    },
+    {
+        "prompt": "jump 15 lines up",
+        "answer": "15k"
+    },
+    {
+        "prompt": "jump 15 lines down",
+        "answer": "15j"
+    },
+    {
+        "prompt": "jump 16 lines up",
+        "answer": "16k"
+    },
+    {
+        "prompt": "jump 16 lines down",
+        "answer": "16j"
+    },
+    {
+        "prompt": "jump 17 lines up",
+        "answer": "17k"
+    },
+    {
+        "prompt": "jump 17 lines down",
+        "answer": "17j"
+    },
+    {
+        "prompt": "jump 18 lines up",
+        "answer": "18k"
+    },
+    {
+        "prompt": "jump 18 lines down",
+        "answer": "18j"
+    },
+    {
+        "prompt": "jump 19 lines up",
+        "answer": "19k"
+    },
+    {
+        "prompt": "jump 19 lines down",
+        "answer": "19j"
+    },
+    {
+        "prompt": "jump 20 lines up",
+        "answer": "20k"
+    },
+    {
+        "prompt": "jump 20 lines down",
+        "answer": "20j"
+    },
+    {
+        "prompt": "jump 21 lines up",
+        "answer": "21k"
+    },
+    {
+        "prompt": "jump 21 lines down",
+        "answer": "21j"
+    },
+    {
+        "prompt": "jump 22 lines up",
+        "answer": "22k"
+    },
+    {
+        "prompt": "jump 22 lines down",
+        "answer": "22j"
+    },
+    {
+        "prompt": "jump 23 lines up",
+        "answer": "23k"
+    },
+    {
+        "prompt": "jump 23 lines down",
+        "answer": "23j"
+    },
+    {
+        "prompt": "jump 24 lines up",
+        "answer": "24k"
+    },
+    {
+        "prompt": "jump 24 lines down",
+        "answer": "24j"
+    },
+    {
+        "prompt": "jump 25 lines up",
+        "answer": "25k"
+    },
+    {
+        "prompt": "jump 25 lines down",
+        "answer": "25j"
+    },
+    {
+        "prompt": "jump 26 lines up",
+        "answer": "26k"
+    },
+    {
+        "prompt": "jump 26 lines down",
+        "answer": "26j"
+    },
+    {
+        "prompt": "jump 27 lines up",
+        "answer": "27k"
+    },
+    {
+        "prompt": "jump 27 lines down",
+        "answer": "27j"
+    },
+    {
+        "prompt": "jump 28 lines up",
+        "answer": "28k"
+    },
+    {
+        "prompt": "jump 28 lines down",
+        "answer": "28j"
+    },
+    {
+        "prompt": "jump 29 lines up",
+        "answer": "29k"
+    },
+    {
+        "prompt": "jump 29 lines down",
+        "answer": "29j"
+    },
+    {
+        "prompt": "jump 30 lines up",
+        "answer": "30k"
+    },
+    {
+        "prompt": "jump 30 lines down",
+        "answer": "30j"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "prompt": "jump up one character to the right",
+        "answer": "l"
+    },
+    {
+        "prompt": "jump up one character to the left",
+        "answer": "h"
+    },
+    {
+        "prompt": "jump to above line",
+        "answer": "k"
+    },
+    {
+        "prompt": "jump to line below",
+        "answer": "j"
+    },
+    {
+        "marker": [9, 19],
+        "prompt": "jump to beginning of word",
+        "answer": "w"
+    },
+    {
+        "marker": [9, 23],
+        "prompt": "jump to beginning of WORD",
+        "answer": "W"
+    },
+    {
+        "marker": [9, 18],
+        "prompt": "jump to end of word",
+        "answer": "e"
+    },
+    {
+        "marker": [9, 21],
+        "prompt": "jump to end of WORD",
+        "answer": "E"
+    },
+    {
+        "marker": [19, 9],
+        "prompt": "jump to beginning of previous word",
+        "answer": "b"
+    },
+    {
+        "marker": [23, 9],
+        "prompt": "jump to beginning of previous WORD",
+        "answer": "B"
+    },
+    {
+        "marker": [18, 7],
+        "prompt": "jump to end of previous word",
+        "answer": "ge"
+    },
+    {
+        "marker": [18, 7],
+        "prompt": "jump to end of previous WORD",
+        "answer": "gE"
+    }
+]
